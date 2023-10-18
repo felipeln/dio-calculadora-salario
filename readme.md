@@ -9,14 +9,10 @@ O salario a ser transferido é calculado da seguinte forma:
 
 Para calcular o **percentual de imposto** segue as alíquotas:
 - De R$ 0.00 a R$ 1100.00  = 5%
-- De R$ 1001.00 a R$ 2500.00  = 10%
+- De R$ 1000.01 a R$ 2500.00  = 10%
 - Maior que R$ 2500.00  = 15%
 
 
 ## O desafio será feito em diferentes linguagens de programação, sendo elas:
 
-- **Java**
-- **C#**
-- **JavaScript**
-- **Python**
-- **Kotlin**
+[![Languages](https://skillicons.dev/icons?i=java,cs,js,py,kotlin&perline=5)](https://skillicons.dev/)
